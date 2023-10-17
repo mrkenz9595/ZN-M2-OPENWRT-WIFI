@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ZN-M2 china-wifi
+name: ZN-M2 wifi
 
 on:
   repository_dispatch:
